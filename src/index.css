@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;600&display=swap");
+
+
+html{
+  background-image:url(https://lh3.googleusercontent.com/proxy/zEdKlDrS13updfWZwu2BmJkS-F1cGeiUU6CjUwhtFGQ4z1Q8vAecByHukql2uBkce_t8yTixsQ_x5C2otiti14L_a9RajXvYYxUsnkCDY5ao1NzEalCWBNNfNfZCmlnF0WXZLUIaAxmITGyruuq-IwTxstiQ6070FYUk7dowaZM19icjkFBKKoi4ChiVURPK64LBnJOI4CSHARQHIJaCBLmEv_GPOe7FfNecvKnXeMYxXVWCRGVJD0lDnFYrbEsx) ;
+}
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+#root{
+  background-image: url(https://lh3.googleusercontent.com/proxy/zEdKlDrS13updfWZwu2BmJkS-F1cGeiUU6CjUwhtFGQ4z1Q8vAecByHukql2uBkce_t8yTixsQ_x5C2otiti14L_a9RajXvYYxUsnkCDY5ao1NzEalCWBNNfNfZCmlnF0WXZLUIaAxmITGyruuq-IwTxstiQ6070FYUk7dowaZM19icjkFBKKoi4ChiVURPK64LBnJOI4CSHARQHIJaCBLmEv_GPOe7FfNecvKnXeMYxXVWCRGVJD0lDnFYrbEsx);
+}
